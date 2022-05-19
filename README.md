@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @geckond
 - 👀 I’m interested in cats, coffee and arataki itto
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on as many projects I can
+- 💞️ I’m looking to collaborate in as many projects I can
 - 📫 How to reach me: @mininhoca on Instagram :)
 
 <!---
